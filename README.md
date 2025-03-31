@@ -1,10 +1,10 @@
-# GrailTube
+# Dadtube is a fork of GrailTube
 
 <p align="center">
-  <img src="grailtube.jpg" alt="GrailTube Screenshot" width="100%">
+  <img src="dadtube.jpg" alt="DadTube Screenshot" width="100%">
 </p>
 
-## Overview
+## GrailTube Overview
 
 GrailTube is a web application that helps you discover rare YouTube videos with fewer than 10 views. It randomly searches for videos uploaded during a specific time window from YouTube's past and shows you the ones that have been largely unwatched.
 
